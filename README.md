@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A Flutter developer from Egypt</h3>
 
+- 🌱 I’m currently learning problem solving, data structure and algorithm **Flutter, on Udemy**
+
+- 👨‍💻 All of my projects are available at my repository [https://github.com/Mu-abdullah](https://github.com/Mu-abdullah)
+
 - 💬 Ask me about **Dart, Firebase, API and flutter**
 
 - 📫 How to reach me **Moabdullah588@gmail.com**
