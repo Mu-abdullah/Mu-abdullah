@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning problem solving, data structure and algorithm **Flutter, on Udemy**
 
-- 👨‍💻 All of my projects are available at my repository [https://github.com/Mu-abdullah](https://github.com/Mu-abdullah)
+- 👨‍💻 All of my projects are available at my repository [https://github.com/Mu-abdullah?tab=repositories](https://github.com/Mu-abdullah?tab=repositories)
 
 - 💬 Ask me about **Dart, Firebase, API and flutter**
 
